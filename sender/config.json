@@ -1,0 +1,19 @@
+{
+    "general": {
+        "name": "Oracle",
+        "interval": 1
+    },
+    "image": {
+        "camera": {
+            "device": "/dev/video0",
+            "resolution": "1920x1080"
+        },
+        "path": "/home/cvieira/Downloads/image.jpg"
+    },
+    "network": {
+        "identifier": "Camera1",
+        "targets": [
+            "http://localhost/oracle/receiver/receiver.php"
+        ]
+    }
+}

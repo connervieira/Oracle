@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Portal</title>
+        <title>Oracle</title>
         <meta http-equiv="refresh" content="1" />
     </head>
     <body>
